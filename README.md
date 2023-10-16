@@ -29,7 +29,7 @@ Implement search functionality for users to find specific videos by title.
 
 ![WhatsApp Image 2023-10-16 at 14 20 37](https://github.com/Shital1471/video_sharing/assets/114605853/94693448-e16a-4e12-aeb9-024b75073e75)
 ![WhatsApp Image 2023-10-16 at 14 20 33](https://github.com/Shital1471/video_sharing/assets/114605853/058fd1c8-4ae1-474f-8023-848dd2e09cfd)
-![WhatsApp Image 2023-10-16 at 14 20 35 (1)](https://github.com/Shital1471/video_sharing/assets/114605853/e698a255-c20d-40e8-8630-7eee5eae35fe)
+![WhatsApp Image 2023-10-16 at 14 20 35](https://github.com/Shital1471/video_sharing/assets/114605853/0274911a-91bb-469f-bf02-57bd02b44714)
 ![WhatsApp Image 2023-10-16 at 14 20 34](https://github.com/Shital1471/video_sharing/assets/114605853/65f292d9-a6ec-4fbf-8efa-112f6a1f1688)
 
 
